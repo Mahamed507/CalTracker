@@ -1,0 +1,195 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f6d6c7;
+  color: #222;
+}
+
+
+.tracker {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 30px 16px;
+}
+
+
+.tracker h1 {
+  margin-bottom: 16px;
+}
+
+
+.ex,
+.goal,
+
+.logs {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 18px;
+  margin-bottom: 16px;
+}
+
+
+.ex p,
+.goal p {
+  line-height: 1.6;
+}
+
+
+.sadFace,
+.strongMan {
+  width: 100%;
+  max-width: 520px;
+  display: block;
+  margin: 14px auto;
+  border-radius: 10px;
+  mix-blend-mode: multiply;
+}
+
+
+.goal a {
+  text-decoration: none;
+}
+
+.goal a h3 {
+  display: inline-block;
+  background: #222;
+  color: white;
+  padding: 10px 14px;
+  border-radius: 10px;
+  margin: 10px 0 14px;
+}
+
+.goal a h3:hover {
+  opacity: 0.85;
+}
+
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+.numberTracker {
+  text-align: center;
+}
+
+.numberTracker h2 {
+  margin: 8px 0 0;
+  font-size: 26px;
+}
+
+
+.logs {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.logs input {
+  margin-top: 0;
+}
+
+
+.logs button {
+  padding: 10px 14px;
+  border: none;
+  border-radius: 10px;
+  background: #222;
+  color: white;
+  cursor: pointer;
+}
+
+.logs button:hover {
+  opacity: 0.85;
+  mix-blend-mode: darken;
+
+}
+.ct{
+  text-align: center;
+}
+.ex img {
+  border: 1px solid black;
+}
+
+.num{
+  color: red;
+}
+
+.button{
+  padding: 10px;
+margin: auto;
+  border-radius: 10px;
+  color: white;
+font-size: 26px;
+  font-family:  Arial, sans-serif;
+  background-color: black;
+  cursor: pointer;
+}
+
+
+ button{
+
+  padding: 10px;
+  margin: auto;
+  border-radius: 10px;
+  color: white;
+  font-size: 26px;
+  font-family:  Arial, sans-serif;
+  background-color: black;
+  cursor: pointer;
+
+}
+
+.log,
+.cal{
+  border-style: groove;
+  border-width: 5px;
+  width: 500px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.title{
+  text-align: center;
+}
+
+.pie{
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+
+
+
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.addFood {
+  margin-top: 12px;
+}
+
+
+
+
+
+
